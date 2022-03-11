@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgneevMukherjee
 - 👀 I’m interested in energy science and data science/machine learning
-- 🌱 I’m currently working as a postdoctoral researcher on biofuels, and learning more about DS/ML every day!
+- 🌱 I’m currently working as a postdoctoral researcher on biofuels, and in my free time, learning more about DS/ML every day!
 - 📫 How to reach me - the best way is to connect on [LinkedIn](https://www.linkedin.com/in/agneevmukherjee/)
 
 <!---
